@@ -34,11 +34,6 @@ End-to-end ELT pipeline using **Python & PostgreSQL** with RAW → MARTS modelin
 - Automated data quality checks
 - Reproducible local execution
 
----
-
-## 📫 Connect with Me
-- 💼 LinkedIn: *(add link here)*
-- 📧 Email: *(add email here)*
 
 ---
 
