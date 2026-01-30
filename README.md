@@ -3,16 +3,16 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 AI Engineer with a **Data Science background**
-- 🔁 Transitioning toward **Data Engineering**, focusing on data pipelines and analytics systems
-- 🧠 Strong foundation in **data processing, statistics, and analytical thinking**
-- 🏗️ Interested in building **scalable data pipelines**, data models, and BI-ready datasets
-- 🚀 Hands-on learner through real-world, end-to-end data projects
+##  About Me
+-  AI Engineer with a **Data Science background**
+-  Transitioning toward **Data Engineering**, focusing on data pipelines and analytics systems
+-  Strong foundation in **data processing, statistics, and analytical thinking**
+-  Interested in building **scalable data pipelines**, data models, and BI-ready datasets
+-  Hands-on learner through real-world, end-to-end data projects
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
 ![Numpy](https://img.shields.io/badge/Numpy-orange?logo=Numpy)
