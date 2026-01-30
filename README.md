@@ -26,7 +26,7 @@
 End-to-end ELT pipeline using **Python & PostgreSQL** with RAW → MARTS modeling and data quality checks.
 
 👉 Repo:  
-🔗 https://github.com/Quancunn/ecommerce-data-pipeline
+🔗 https://github.com/QuinnVu249/ecommerce-data-pipeline
 
 **Highlights**
 - RAW → MARTS data warehouse design
