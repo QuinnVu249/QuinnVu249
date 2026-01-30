@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Quan</h1>
-<h3 align="center">Aspiring Data Engineer | Data & Analytics Enthusiast</h3>
+<h3 align="center">AI Engineer (Data Science) → Aspiring Data Engineer</h3>
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final-year engineering student with a strong interest in **Data Engineering**
-- 🛠️ Passionate about building **data pipelines, data models, and analytics systems**
-- 📊 Interested in turning raw data into **business insights**
-- 🚀 Always learning and improving through hands-on projects
+- 🎓 AI Engineer with a **Data Science background**
+- 🔁 Transitioning toward **Data Engineering**, focusing on data pipelines and analytics systems
+- 🧠 Strong foundation in **data processing, statistics, and analytical thinking**
+- 🏗️ Interested in building **scalable data pipelines**, data models, and BI-ready datasets
+- 🚀 Hands-on learner through real-world, end-to-end data projects
 
 ---
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql)
-![SQL](https://img.shields.io/badge/SQL-lightgrey)
 ![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![Numpy](https://img.shields.io/badge/Numpy-orange?logo=Numpy)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 ![Git](https://img.shields.io/badge/Git-orange?logo=git)
-![Linux](https://img.shields.io/badge/Linux-black?logo=linux)
 
 ---
 
